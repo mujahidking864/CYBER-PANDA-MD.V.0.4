@@ -13,7 +13,7 @@ global.autoTyping = true;                //auto tying by default off.
 global.autoRecord = true;                //auto recording by default off.
 global.groupevent = true;                //This is the new variable for controlling group event handling.
 global.statusseen = true;                 //This is the new variable for controlling status seen.
-global.autoreadgc = false;
+global.autoreadgc = true;
 
 
 //
@@ -21,13 +21,13 @@ global.prefa = ["."];                                    //Default prefix here. 
 
 
 //
-global.Owner = ["+994402227858", "+923030823055"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["+994402227858", "+923030823055"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.ownertag = ["+994402227858", "+923030823055];
-global.OwnerName = "MUJAHID";
-global.BotName = "DARK MUJAHID";
-global.packname = "🦋 MUJAHID HACKER 🦋";                             //Do not change.
-global.author = "MUJHAID";                               //Do not change.
+global.Owner = ["+994402227858", "+994402227858"];         //If you want singal number so global.Owner = ['994402227858'] Change into your number.
+global.OwnerNumber = ["+994402227858", "+994402227858"];   //If you want singal number so global.Owner = ['994402227858'] Change into your number.
+global.ownertag = ["+994402227858"];
+global.OwnerName = "☠️𝗠𝗨𝗝𝗔𝗛𝗜𝗗☠️";
+global.BotName = "𝗗𝗔𝗥𝗞 𝗠𝗨𝗝𝗔𝗛𝗜𝗗";
+global.packname = "☠️ 𝗠𝗨𝗝𝗔𝗛𝗜𝗗 𝗛𝗔𝗖𝗞𝗘𝗥 ☠️";                             //Do not change.
+global.author = "𝗠𝗨𝗝𝗔𝗛𝗜𝗗";                               //Do not change.
 global.BotSourceCode = "https://github.com/Kai00"; //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/GhRGdwfaMVDCoeAdzILfl";
 
@@ -46,7 +46,7 @@ global.reactmoji = "☠️";
 global.themeemoji = "😎";
 global.vidmenu = { url: 'https://tenor.com/en-CA/view/anonymous-hacker-smooth-gif-10171911193797826570%9D%90%95-12-14' };
 global.websitex = "https://github.com/CYBER-x-SACHIYA-SL-MD-BOT/CYBER-PANDA-MD.V.0.4";
-global.lolhuman = "MUJAHID";
+global.lolhuman = "𝗠𝗨𝗝𝗔𝗛𝗜𝗗";
 
 
 //
