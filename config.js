@@ -4,14 +4,14 @@ const chalk = require("chalk");
 
 //
 global.available = true;
-global.autoReadAll = false;
+global.autoReadAll = true;
 global.antitags = true;
 
 
 //auto functioner
-global.autoTyping = false;                //auto tying by default off.
+global.autoTyping = true;                //auto tying by default off.
 global.autoRecord = true;                //auto recording by default off.
-global.groupevent = false;                //This is the new variable for controlling group event handling.
+global.groupevent = true;                //This is the new variable for controlling group event handling.
 global.statusseen = true;                 //This is the new variable for controlling status seen.
 global.autoreadgc = false;
 
@@ -21,9 +21,9 @@ global.prefa = ["."];                                    //Default prefix here. 
 
 
 //
-global.Owner = ["+994402227858", "+994402227858"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["+994402227858", "+994402227858"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.ownertag = ["+994402227858"];
+global.Owner = ["+994402227858", "+923030823055"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.OwnerNumber = ["+994402227858", "+923030823055"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.ownertag = ["+994402227858", "+923030823055];
 global.OwnerName = "MUJAHID";
 global.BotName = "DARK MUJAHID";
 global.packname = "🦋 MUJAHID HACKER 🦋";                             //Do not change.
